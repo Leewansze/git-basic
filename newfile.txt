@@ -1,0 +1,9 @@
+What is the difference between add, commit, and push?
+
+Answer：
+
+1. git add: 将当前目录下修改的代码，从work directory 添加到 staged，在 staged 中的代码可以进行 git commit 的操作
+
+2. git commit: 操作的是本地仓库。将本地修改过的文件并且在 staged 中，提交到Local Repository，此处操作在未push到分支上时，仅自己可见
+
+3. git push: 操作的是远程仓库。将提交到本地仓库的修改发送到远程仓库上。此处操作后，在分支上，其他人也可见
