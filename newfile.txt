@@ -1,9 +1,11 @@
 What is the difference between add, commit, and push?
 
-Answer£º
+Answerï¼š
 
-1. git add: ½«µ±Ç°Ä¿Â¼ÏÂĞŞ¸ÄµÄ´úÂë£¬´Ówork directory Ìí¼Óµ½ staged£¬ÔÚ staged ÖĞµÄ´úÂë¿ÉÒÔ½øĞĞ git commit µÄ²Ù×÷
+1. git add: å°†å½“å‰ç›®å½•ä¸‹ä¿®æ”¹çš„ä»£ç ï¼Œä»work directory æ·»åŠ åˆ° stagedï¼Œåœ¨ staged ä¸­çš„ä»£ç å¯ä»¥è¿›è¡Œ git commit çš„æ“ä½œ
 
-2. git commit: ²Ù×÷µÄÊÇ±¾µØ²Ö¿â¡£½«±¾µØĞŞ¸Ä¹ıµÄÎÄ¼ş²¢ÇÒÔÚ staged ÖĞ£¬Ìá½»µ½Local Repository£¬´Ë´¦²Ù×÷ÔÚÎ´pushµ½·ÖÖ§ÉÏÊ±£¬½ö×Ô¼º¿É¼û
+2. git commit: æ“ä½œçš„æ˜¯æœ¬åœ°ä»“åº“ã€‚å°†æœ¬åœ°ä¿®æ”¹è¿‡çš„æ–‡ä»¶å¹¶ä¸”åœ¨ staged ä¸­ï¼Œæäº¤åˆ°Local Repositoryï¼Œæ­¤å¤„æ“ä½œåœ¨æœªpushåˆ°åˆ†æ”¯ä¸Šæ—¶ï¼Œä»…è‡ªå·±å¯è§
 
-3. git push: ²Ù×÷µÄÊÇÔ¶³Ì²Ö¿â¡£½«Ìá½»µ½±¾µØ²Ö¿âµÄĞŞ¸Ä·¢ËÍµ½Ô¶³Ì²Ö¿âÉÏ¡£´Ë´¦²Ù×÷ºó£¬ÔÚ·ÖÖ§ÉÏ£¬ÆäËûÈËÒ²¿É¼û
+3. git push: æ“ä½œçš„æ˜¯è¿œç¨‹ä»“åº“ã€‚å°†æäº¤åˆ°æœ¬åœ°ä»“åº“çš„ä¿®æ”¹å‘é€åˆ°è¿œç¨‹ä»“åº“ä¸Šã€‚æ­¤å¤„æ“ä½œåï¼Œåœ¨åˆ†æ”¯ä¸Šï¼Œå…¶ä»–äººä¹Ÿå¯è§
+
+4. This is opening the repository on GitHub and making changes to newfile.txt
